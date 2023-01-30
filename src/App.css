@@ -47,5 +47,9 @@
   justify-content: center;
 }
 .img-space{
-  margin: 5px;
+  margin: 10px;
+}
+.input{
+  width: 30px;
+  border-radius: 5px;
 }
